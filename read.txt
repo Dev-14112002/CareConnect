@@ -1,0 +1,1 @@
+An app or service that has information about all the symptoms,illnesses and health problems and also some type of health checkup services so people who avoid the checkup or symptoms of initial health issues will be also warned and the system will also suggest some doctors to them.
